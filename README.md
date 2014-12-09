@@ -1,4 +1,6 @@
 BiGC-Implementation
 ===================
 
-Implementation of BiGC algorithm in Matlab using Shapley values for Data clustering
+#### Collaborators
+- Parin Porecha (201101055)
+- Saksham Garg (201101102)
